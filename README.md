@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL
 
 ## Education								       		
-- MSc. Physics	| The University of the West Indies (_Pending_)	 			        		
-- BSc. Actuarial Science | The University of the West Indies (_July 2021_)
+- MSc. Applied Data Science | The University of the West Indies (_Pending_)	 			        		
+- BSc. Actuarial Science    | The University of the West Indies (_July 2021_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
